@@ -1,2 +1,2 @@
-# baseline_red_issues
-Issue Tracker for Baseline Red
+# Baseline Red - Issue Tracker
+Report all issues here.
